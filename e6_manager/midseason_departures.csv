@@ -1,0 +1,172 @@
+team,season,date,manager,before,after
+Arsenal,2019,2019-11-29,Unai Emery,13,18
+Aston Villa,2001,2002-01-24,John Gregory,23,15
+Aston Villa,2014,2015-02-11,Paul Lambert,25,13
+Aston Villa,2015,2015-10-25,Tim Sherwood,10,28
+Aston Villa,2015,2016-03-29,Rémi Garde,31,7
+Aston Villa,2021,2021-11-07,Dean Smith,11,27
+Aston Villa,2022,2022-10-20,Steven Gerrard,11,27
+Birmingham,2007,2007-11-23,Steve Bruce,13,25
+Blackburn,2004,2004-09-06,Graeme Souness,4,34
+Blackburn,2008,2008-12-16,Paul Ince,17,21
+Blackburn,2010,2010-12-13,Sam Allardyce,17,21
+Bolton,2007,2007-10-07,Sammy Lee,9,29
+Bolton,2009,2009-12-30,Gary Megson,18,20
+Bournemouth,2022,2022-08-30,Scott Parker,4,34
+Bradford,2000,2000-11-06,Chris Hutchings,12,26
+Brighton,2022,2022-09-08,Graham Potter,6,32
+Burnley,2009,2010-01-05,Owen Coyle,20,18
+Burnley,2021,2022-04-15,Sean Dyche,30,8
+Burnley,2025,2026-04-30,Scott Parker,34,4
+Cardiff,2013,2013-12-27,Malky Mackay,18,20
+Charlton,2006,2006-11-13,Iain Dowie,12,26
+Charlton,2006,2006-12-24,Les Reed,19,19
+Chelsea,2000,2000-09-12,Gianluca Vialli,5,33
+Chelsea,2007,2007-09-20,José Mourinho,6,32
+Chelsea,2008,2009-02-09,Luiz Felipe Scolari,25,13
+Chelsea,2011,2012-03-04,André Villas-Boas,27,11
+Chelsea,2012,2012-11-21,Roberto Di Matteo,12,26
+Chelsea,2015,2015-12-17,José Mourinho,16,22
+Chelsea,2020,2021-01-25,Frank Lampard,26,19
+Chelsea,2022,2022-09-07,Thomas Tuchel,6,32
+Chelsea,2022,2023-04-02,Graham Potter,28,10
+Chelsea,2025,2026-01-01,Enzo Maresca,19,19
+Chelsea,2025,2026-04-22,Liam Rosenior,34,4
+Crystal Palace,2013,2013-10-23,Ian Holloway,8,30
+Crystal Palace,2014,2014-12-27,Neil Warnock,18,20
+Crystal Palace,2016,2016-12-22,Alan Pardew,17,21
+Crystal Palace,2017,2017-09-11,Frank de Boer,4,34
+Crystal Palace,2022,2023-03-17,Patrick Vieira,27,11
+Crystal Palace,2023,2024-02-19,Roy Hodgson,35,13
+Derby,2001,2001-10-07,Jim Smith,7,31
+Derby,2001,2002-01-14,Colin Todd,22,16
+Derby,2007,2007-11-26,Billy Davies,14,24
+Everton,2001,2002-03-13,Walter Smith,29,9
+Everton,2017,2017-10-23,Ronald Koeman,9,29
+Everton,2019,2019-12-05,Marco Silva,15,16
+Everton,2021,2022-01-16,Rafael Benítez,19,19
+Everton,2022,2023-01-23,Frank Lampard,20,18
+Everton,2024,2025-01-09,Sean Dyche,19,19
+Fulham,2002,2003-04-17,Jean Tigana,33,5
+Fulham,2006,2007-04-11,Chris Coleman,33,5
+Fulham,2007,2007-12-21,Lawrie Sanchez,17,21
+Fulham,2013,2013-12-01,Martin Jol,13,25
+Fulham,2013,2014-02-14,René Meulensteen,26,12
+Fulham,2018,2018-11-14,Slaviša Jokanović,12,26
+Fulham,2018,2019-02-28,Claudio Ranieri,28,10
+Huddersfield,2018,2019-01-14,David Wagner,22,16
+Hull,2009,2010-03-15,Phil Brown,29,9
+Hull,2016,2017-01-03,Mike Phelan,20,18
+Leeds,2002,2003-03-21,Terry Venables,30,8
+Leeds,2003,2003-11-10,Peter Reid,12,26
+Leeds,2021,2022-02-27,Marcelo Bielsa,26,12
+Leeds,2022,2023-02-06,Jesse Marsch,20,18
+Leeds,2022,2023-05-03,Javi Gracia,34,4
+Leicester,2001,2001-09-30,Peter Taylor,8,30
+Leicester,2001,2002-04-06,Dave Bassett,34,4
+Leicester,2016,2017-02-23,Claudio Ranieri,25,13
+Leicester,2017,2017-10-17,Craig Shakespeare,8,30
+Leicester,2018,2019-02-24,Claude Puel,27,11
+Leicester,2022,2023-04-02,Brendan Rodgers,28,10
+Leicester,2024,2024-11-24,Steve Cooper,12,26
+Liverpool,2001,2001-10-14,Gérard Houllier,7,31
+Liverpool,2010,2011-01-08,Roy Hodgson,20,18
+Liverpool,2015,2015-10-04,Brendan Rodgers,8,30
+Man City,2004,2005-03-11,Kevin Keegan,29,9
+Man City,2009,2009-12-19,Mark Hughes,17,21
+Man United,2013,2014-04-22,David Moyes,34,4
+Man United,2018,2018-12-18,José Mourinho,17,21
+Man United,2021,2021-11-21,Ole Gunnar Solskjær,12,26
+Man United,2024,2024-10-28,Erik ten Hag,9,29
+Man United,2025,2026-01-05,Ruben Amorim,20,18
+Middlesbrough,2000,2000-12-06,Bryan Robson,16,22
+Middlesbrough,2016,2017-03-16,Aitor Karanka,27,11
+Newcastle,2004,2004-08-30,Bobby Robson,4,34
+Newcastle,2005,2006-02-02,Graeme Souness,23,15
+Newcastle,2007,2008-01-09,Sam Allardyce,21,17
+Newcastle,2008,2008-09-04,Kevin Keegan,3,35
+Newcastle,2008,2009-04-01,Joe Kinnear,30,8
+Newcastle,2010,2010-12-06,Chris Hughton,16,22
+Newcastle,2014,2015-01-02,Alan Pardew,20,18
+Newcastle,2015,2016-03-11,Steve McClaren,28,10
+Newcastle,2021,2021-10-20,Steve Bruce,8,30
+Norwich,2013,2014-04-06,Chris Hughton,33,5
+Norwich,2021,2021-11-06,Daniel Farke,11,27
+Nott'm Forest,2023,2023-12-19,Steve Cooper,27,21
+Nott'm Forest,2025,2025-09-09,Nuno Espírito Santo,3,35
+Nott'm Forest,2025,2025-10-18,Ange Postecoglou,8,30
+Nott'm Forest,2025,2026-02-12,Sean Dyche,26,12
+Portsmouth,2004,2004-11-24,Harry Redknapp,13,25
+Portsmouth,2004,2005-04-07,Velimir Zajec,31,7
+Portsmouth,2005,2005-11-24,Alain Perrin,13,25
+Portsmouth,2008,2008-10-25,Harry Redknapp,8,30
+Portsmouth,2008,2009-02-09,Tony Adams,24,14
+Portsmouth,2009,2009-11-24,Paul Hart,13,25
+QPR,2011,2012-01-08,Neil Warnock,20,18
+QPR,2012,2012-11-23,Mark Hughes,12,26
+QPR,2014,2015-02-03,Harry Redknapp,23,15
+Reading,2012,2013-03-11,Brian McDermott,29,9
+Sheffield United,2020,2021-03-13,Chris Wilder,35,10
+Sheffield United,2023,2023-12-05,Paul Heckingbottom,24,24
+Southampton,2000,2001-03-28,Glenn Hoddle,29,9
+Southampton,2001,2001-10-21,Stuart Gray,8,30
+Southampton,2003,2004-02-13,Gordon Strachan,25,13
+Southampton,2004,2004-12-10,Steve Wigley,16,22
+Southampton,2012,2013-01-18,Nigel Adkins,22,16
+Southampton,2017,2018-03-12,Mauricio Pellegrino,30,8
+Southampton,2018,2018-12-03,Mark Hughes,14,24
+Southampton,2022,2022-11-07,Ralph Hasenhüttl,14,24
+Southampton,2022,2023-02-12,Nathan Jones,22,16
+Southampton,2024,2024-12-15,Russell Martin,16,22
+Southampton,2024,2025-04-07,Ivan Jurić,31,7
+Stoke,2017,2018-01-06,Mark Hughes,22,16
+Sunderland,2002,2002-10-07,Peter Reid,9,29
+Sunderland,2002,2003-03-10,Howard Wilkinson,29,9
+Sunderland,2005,2006-03-06,Mick McCarthy,28,10
+Sunderland,2008,2008-12-04,Roy Keane,15,23
+Sunderland,2011,2011-11-30,Steve Bruce,13,25
+Sunderland,2012,2013-03-30,Martin O'Neill,31,7
+Sunderland,2013,2013-09-22,Paolo Di Canio,5,33
+Sunderland,2014,2015-03-16,Gus Poyet,29,9
+Sunderland,2015,2015-10-04,Dick Advocaat,8,30
+Swansea,2013,2014-02-04,Michael Laudrup,24,14
+Swansea,2015,2015-12-09,Garry Monk,15,23
+Swansea,2016,2016-10-03,Francesco Guidolin,7,31
+Swansea,2016,2016-12-27,Bob Bradley,18,20
+Swansea,2017,2017-12-20,Paul Clement,18,20
+Tottenham,2000,2001-03-16,George Graham,29,9
+Tottenham,2003,2003-09-21,Glenn Hoddle,6,32
+Tottenham,2004,2004-11-05,Jacques Santini,11,27
+Tottenham,2007,2007-10-25,Martin Jol,10,28
+Tottenham,2008,2008-10-25,Juande Ramos,8,30
+Tottenham,2013,2013-12-16,André Villas-Boas,16,22
+Tottenham,2019,2019-11-19,Mauricio Pochettino,12,19
+Tottenham,2020,2021-04-19,José Mourinho,39,6
+Tottenham,2021,2021-11-01,Nuno Espírito Santo,10,28
+Tottenham,2022,2023-03-26,Antonio Conte,28,10
+Tottenham,2025,2026-02-11,Thomas Frank,26,12
+Tottenham,2025,2026-03-29,Igor Tudor,31,7
+Watford,2017,2018-01-21,Marco Silva,24,14
+Watford,2019,2019-09-07,Javi Gracia,4,28
+Watford,2019,2019-12-01,Flores,14,18
+Watford,2021,2021-10-03,Xisco Muñoz,7,31
+Watford,2021,2022-01-24,Claudio Ranieri,20,18
+West Brom,2004,2004-10-26,Gary Megson,10,28
+West Brom,2010,2011-02-06,Roberto Di Matteo,25,13
+West Brom,2013,2013-12-14,Steve Clarke,16,22
+West Brom,2014,2014-12-29,Alan Irvine,19,19
+West Brom,2017,2017-11-20,Tony Pulis,12,26
+West Brom,2017,2018-04-02,Alan Pardew,32,6
+West Brom,2020,2020-12-16,Slaven Bilić,13,25
+West Ham,2002,2003-04-24,Glenn Roeder,35,3
+West Ham,2006,2006-12-11,Alan Pardew,17,21
+West Ham,2008,2008-09-03,Alan Curbishley,3,35
+West Ham,2017,2017-11-06,Slaven Bilić,11,27
+West Ham,2019,2019-12-28,Manuel Pellegrini,19,12
+West Ham,2024,2025-01-08,Julen Lopetegui,20,18
+West Ham,2025,2025-09-27,Graham Potter,5,33
+Wigan,2007,2007-11-05,Chris Hutchings,12,26
+Wolves,2011,2012-02-14,Mick McCarthy,25,13
+Wolves,2022,2022-10-02,Bruno Lage,8,30
+Wolves,2024,2024-12-15,Gary O'Neil,16,22
+Wolves,2025,2025-11-02,Vítor Pereira,10,28

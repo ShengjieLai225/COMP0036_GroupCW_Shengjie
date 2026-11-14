@@ -1,0 +1,49 @@
+{
+ "normal_home_param_first_week_2021_22": [
+  0.1012,
+  0.0
+ ],
+ "exclude_home_param_first_week_2021_22": [
+  0.2271,
+  0.0
+ ],
+ "indicator_home_param_first_week_2021_22": [
+  0.1818,
+  -0.1224
+ ],
+ "normal": {
+  "during": 0.21186,
+  "after_2021_22_to_2025_26": 0.20111,
+  "first_half_2021_22": 0.19103
+ },
+ "exclude": {
+  "during": 0.2203,
+  "after_2021_22_to_2025_26": 0.20166,
+  "first_half_2021_22": 0.19608
+ },
+ "indicator": {
+  "during": 0.21155,
+  "after_2021_22_to_2025_26": 0.20099,
+  "first_half_2021_22": 0.19062
+ },
+ "exclude_vs_normal_after": [
+  0.00055,
+  -0.00048,
+  0.00157
+ ],
+ "exclude_vs_normal_during": [
+  0.00844,
+  0.00139,
+  0.01529
+ ],
+ "indicator_vs_normal_after": [
+  -0.00011,
+  -0.0004,
+  0.00017
+ ],
+ "indicator_vs_normal_during": [
+  -0.00031,
+  -0.00128,
+  0.00064
+ ]
+}

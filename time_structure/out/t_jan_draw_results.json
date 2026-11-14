@@ -1,0 +1,47 @@
+{
+ "jan": {
+  "n_feature_matches": 812,
+  "mean_gz": 0.084,
+  "rps_base": 0.19788,
+  "rps_with": 0.19792,
+  "rps_diff_all": [
+   4.7e-05,
+   -3.4e-05,
+   0.000134
+  ],
+  "rps_diff_on_feature_matches": 0.00066,
+  "logloss_diff_all": 0.0003,
+  "pred_draw_base_on_feature": 0.247,
+  "actual_draw_on_feature": 0.2747
+ },
+ "xmas": {
+  "n_feature_matches": 742,
+  "mean_gz": -0.015,
+  "rps_base": 0.19788,
+  "rps_with": 0.19796,
+  "rps_diff_all": [
+   8e-05,
+   -1.7e-05,
+   0.000183
+  ],
+  "rps_diff_on_feature_matches": 0.00056,
+  "logloss_diff_all": 0.00062,
+  "pred_draw_base_on_feature": 0.2476,
+  "actual_draw_on_feature": 0.2622
+ },
+ "march": {
+  "n_feature_matches": 708,
+  "mean_gz": -0.195,
+  "rps_base": 0.19788,
+  "rps_with": 0.19793,
+  "rps_diff_all": [
+   5e-05,
+   -8.7e-05,
+   0.000193
+  ],
+  "rps_diff_on_feature_matches": 0.00031,
+  "logloss_diff_all": -0.00017,
+  "pred_draw_base_on_feature": 0.246,
+  "actual_draw_on_feature": 0.1941
+ }
+}

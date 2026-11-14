@@ -1,0 +1,13 @@
+# Manual fixes applied AFTER the rule-based key "<first initial> <surname>" (see ref_key in clean_data.py).
+# confidence: high = obvious typo/truncation; medium = only one plausible active referee with that surname that season.
+raw_key,canonical,confidence,evidence
+D Gallagh,D Gallagher,high,truncated name (2006/07; D Gallagher active 2000-2007)
+D Gallaghe,D Gallagher,high,truncated name (2006/07)
+l Mason,L Mason,high,lower-case initial (rule upper-cases it anyway)
+L Mason,L Mason,high,identity
+O Oliver,M Oliver,high,single match 2024/25; M Oliver active 2010-2026
+K Kavanagh,C Kavanagh,high,single match 2024/25; C Kavanagh active 2016-2026
+M Atkinson,M Atkinson,high,identity ('Mn Atkinson' maps here by rule)
+S Bennett,S Bennett,high,identity ('St Bennett' maps here by rule)
+A Moss,J Moss,medium,single match 2020/21; J Moss active 2010-2022
+S Scott,G Scott,medium,single match 2019/20; G Scott active 2014-2024
